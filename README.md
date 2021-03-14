@@ -7,18 +7,18 @@ The 2 datasets used were provided by [Tiago Teixeira](https://scholar.google.com
 
 This tutorial has 2 parts: *"EMS_Basics_OKR.R"*, and *"CCA_Basics_OKR.R"* intended to be viewed in that order. 
 
-__The R script *"EMS_Basics_OKR.R"* includes a series of commands to:
+__The R script *"EMS_Basics_OKR.R"* includes a series of commands to:__
 
 * Prepare the environment
 * Load and prepare the data set *"Bats_and_Sites.csv"* (not included)
 * Perform the EMS calculation with the R function `metacom::Metacommunity`
 * Generate a visualisation of the ordinated matrix using `metacom::Imagine` (available in plot folder)
 
-__You may then follow-up with R script *"CCA_Basics_OKR.R"* to
+__You may then follow-up with R script *"CCA_Basics_OKR.R"* to:__
 
 * Fetch the ordinated matrix
 * Select environmental variables from *"Landscape_var.csv"* (not included), create CCA model 
 * Interpret CCA: Inertia, eigenvalues
 * Interpret CCA: biplot (available in plot folder)
 
-__No longer updating this, thanks for visiting. -OKR
+__No longer updating this, thanks for visiting. -OKR__
